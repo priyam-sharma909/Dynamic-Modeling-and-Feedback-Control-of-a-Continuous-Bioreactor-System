@@ -1,4 +1,4 @@
-# Control for Bioreactor (Chemostat) System
+Dynamic-Modeling-and-Feedback-Control-of-a-Continuous-Bioreactor-System
 
 This repository contains MATLAB files for:
 
@@ -12,7 +12,7 @@ This repository contains MATLAB files for:
 
 **Folder:** `Open Loop Model`
 
-Run the files in this folder to simulate the nonlinear dynamics of the bioreactor (chemostat).
+Run the files in this folder to simulate the nonlinear dynamics of the bioreactor system.
 
 **Outputs:**
 
